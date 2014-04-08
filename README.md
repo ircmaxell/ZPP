@@ -60,7 +60,7 @@ Etc.
 
 There are other limitations, but they are not defined at this time.
 
-# Baisc Usage:
+# Basic Usage:
 
 You pass the parameter type spec to the first parameter, and an array of "results" to the second (note that the parameters must be by-reference).
 
